@@ -1,0 +1,9 @@
+The cli mystery quest. I did not realize we needed to save our work and to upload but i will try and describe exactly what I first attempted and then what we ended up doing instead. I worked primarily with my fellow student Rose.
+
+My initial thought was to use the cat * wild card to join all the files together thinking that I could grep or use cmd f to filter through everything and find something using regular expressions that continually matched a  pattern. After a while, I sought out Rose's assistance, she explained that I was making it more difficult , and more advanced than what it called for. 
+I went back and decided to reread the questions again. I then noticed that it specifically states that it was in all upper case. So I searched each director for all uppercase and it was easy to spot finally after I joined all the crimescene into one file and found SEE INTERVIEw with specific interview files . 
+Once I went to the interview directory I grep'd for the right interview.
+I then used the command to extract only a certain row because each clue in the interview mentioned a specific attribute and line number.
+Finally it came down to the blue honda and excluding anyone that was not six foot or more. 
+My answer was 
+JEREMY BOWERS
